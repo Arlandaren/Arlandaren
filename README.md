@@ -115,7 +115,12 @@
 <a href="https://github.com/https://github.com/Arlandaren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+<div align="center">
+<a href="https://t.me/infoowner" target="_blank">
+<img src=https://avatars.mds.yandex.net/i?id=c17820357a8e968f06a904cdef010b6128d50cde-10961631-images-thumbs&n=13&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div> 
   
 
 <div align="center">
