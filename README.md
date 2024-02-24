@@ -111,14 +111,15 @@
 
 
 ## Connect with me  
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <a href="https://github.com/https://github.com/Arlandaren" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="height: 28px;" />
     </a>
     <a href="https://t.me/infoowner" target="_blank">
-        <img src="https://avatars.mds.yandex.net/i?id=c17820357a8e968f06a904cdef010b6128d50cde-10961631-images-thumbs&n=13&style=for-the-badge&logo=github&logoColor=white" alt="telegram" style="height: 28px;" />
+        <img src="https://avatars.mds.yandex.net/i?id=968b5a1ddc54041589daa1fc84054041b06b85e9-10736367-images-thumbs&n=13&style=for-the-badge&logo=github&logoColor=white" alt="telegram" style="height: 28px;" />
     </a>
 </div>
+
   
 
 <div align="center">
