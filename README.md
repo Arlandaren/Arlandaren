@@ -156,3 +156,110 @@
 
 <br />
 
+
+<h2>Схема базы данных</h2>
+
+<h3>users</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>username</th>
+        <th>age</th>
+        <th>geo</th>
+        <th>bio</th>
+    </tr>
+    <tr>
+        <td>BIGINT</td>
+        <td>VARCHAR</td>
+        <td>INTEGER</td>
+        <td>VARCHAR</td>
+        <td>VARCHAR</td>
+    </tr>
+</table>
+
+<h3>travels</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>user_id</th>
+        <th>name</th>
+        <th>description</th>
+        <th>created_at</th>
+    </tr>
+    <tr>
+        <td>SERIAL</td>
+        <td>BIGINT (REFERENCES users(id))</td>
+        <td>VARCHAR</td>
+        <td>VARCHAR</td>
+        <td>TIMESTAMP WITH TIME ZONE</td>
+    </tr>
+</table>
+
+<h3>locations</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>travel_id</th>
+        <th>location</th>
+        <th>start_date</th>
+        <th>end_date</th>
+    </tr>
+    <tr>
+        <td>SERIAL</td>
+        <td>BIGINT (REFERENCES travels(id))</td>
+        <td>VARCHAR</td>
+        <td>TIMESTAMP</td>
+        <td>TIMESTAMP</td>
+    </tr>
+</table>
+
+<h3>friends</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>travel_id</th>
+        <th>user_id</th>
+    </tr>
+    <tr>
+        <td>SERIAL</td>
+        <td>BIGINT (REFERENCES travels(id))</td>
+        <td>BIGINT</td>
+    </tr>
+</table>
+
+<h3>invites</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>travel_id</th>
+        <th>invite_token</th>
+    </tr>
+    <tr>
+        <td>SERIAL</td>
+        <td>BIGINT (REFERENCES travels(id))</td>
+        <td>VARCHAR</td>
+    </tr>
+</table>
+
+<h3>notes</h3>
+<table>
+    <tr>
+        <th>id</th>
+        <th>travel_id</th>
+        <th>user_id</th>
+        <th>text</th>
+        <th>media_id</th>
+        <th>is_public</th>
+        <th>created_at</th>
+    </tr>
+    <tr>
+        <td>SERIAL</td>
+        <td>BIGINT (REFERENCES travels(id))</td>
+        <td>BIGINT (REFERENCES users(id))</td>
+        <td>VARCHAR</td>
+        <td>VARCHAR</td>
+        <td>BOOL (DEFAULT true)</td>
+        <td>TIMESTAMP WITH TIME ZONE</td>
+    </tr>
+</table>
+
