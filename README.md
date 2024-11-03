@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif" align="center" height="150" width="800" />
+
 </div>  
   
 
