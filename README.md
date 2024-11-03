@@ -110,9 +110,6 @@
 
 ## Connect with me  
 <div style="text-align: center;">
-    <a href="https://github.com/https://github.com/Arlandaren" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="height: 28px;" />
-    </a>
     <a href="https://t.me/infoowner" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" style="height: 28px;" />
     </a>
