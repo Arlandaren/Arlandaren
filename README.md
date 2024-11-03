@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Arlandaren, im backend developer.</div>  
+### <div align="left">My name is Arlandaren, im backend developer.</div>  
   
 
 - 🔭 I’m currently free to collaborate  
