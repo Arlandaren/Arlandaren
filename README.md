@@ -120,27 +120,7 @@
     </a>
 </div>
 
-  
 
-<div align="center">
-<img src="https://media.tenor.com/37TOihe46BgAAAAj/now-loading-loading.gif" align="center" height="" width="300" />
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Arlandaren&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlandaren&hide_border=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Alrandaren&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
