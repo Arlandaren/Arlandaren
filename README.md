@@ -127,7 +127,6 @@
                 />
             </a></div>  
 
-<img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" align="left" height="150" width="450" />  
 
 <br />
 
