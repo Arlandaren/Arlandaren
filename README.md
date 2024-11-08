@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning GoLang and ML, moreover researching blockchain technologies  
   
 
-- ⚡ Fun fact: I use Visual Studio Code as my main IDE  
+- ⚡ Fun fact: I use JetBrain's solutions as my main IDEs  
   
 
 - ❓ Contact with me if you need collaborator [telegram](https://t.me/infoowner)  
