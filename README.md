@@ -53,9 +53,9 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
 
-<div align="center">
+<!--<div align="center">
 <img src="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" align="center" height="200" width="" />
-</div>  
+</div>  -->
 
 
 </td><td valign="top" width="33%">
@@ -100,7 +100,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
 </div>  
 
-<--<img src="https://media.tenor.com/EaaObyqbeKEAAAAj/jochem-coding.gif" align="left" height="200" width="" />  -->
+<!--<img src="https://media.tenor.com/EaaObyqbeKEAAAAj/jochem-coding.gif" align="left" height="200" width="" />  -->
 
 
 </td></tr></table>  
