@@ -3,18 +3,11 @@
 </div>  
   
 
-### <div align="left">My name is Arlandaren, im backend developer.</div>  
+### <div align="left">Arlandaren. Backend dev.</div>  
   
-<br/>  
+<br/>   
 
-
-- 🔭 I’m free to collaborate  
-  
-
-- 🌱 I’m currently learning GoLang and ML, moreover researching blockchain technologies  
-  
-
-- ⚡ Fun fact: I use JetBrain's solutions as my main IDEs  
+- ⚡ Fun fact: I use JetBrain's solutions as my main IDEs
   
 
 - ❓ Contact with me if you need collaborator [telegram](https://t.me/infoowner)  
