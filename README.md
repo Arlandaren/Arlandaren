@@ -170,6 +170,7 @@ func Main() {
 
 ---
 
+<br>
 <div align="center" style="margin: 60px 0; position: relative;">
   <img src="https://media.tenor.com/5IOVbQf6vzAAAAAi/glitch.gif" width="100%" style="opacity: 0.3;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
@@ -181,3 +182,5 @@ func Main() {
     </p>
   </div>
 </div>
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
